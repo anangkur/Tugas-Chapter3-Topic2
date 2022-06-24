@@ -4,6 +4,9 @@ class KrisnaSirait {
         val name: String? = readLine()
         print("Masukkan usia anda : ")
         val age:Int? = readLine()?.toInt()
+
+        println(name)
+        println(age)
     }
 
 
