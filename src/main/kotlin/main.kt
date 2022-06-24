@@ -1,4 +1,2 @@
 class main {
-}fun.test(){
-
-}
+}fun test aja dah.
